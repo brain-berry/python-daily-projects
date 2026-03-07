@@ -1,2 +1,13 @@
 # python-daily-projects
 Daily python projects
+# Daily Python Projects
+
+This repository tracks my daily Python practice projects.
+
+Goal: Improve Python and problem solving by building one project daily.
+
+Projects:
+Day 1 - Display age in years, month, days
+Day 2 - Number Guessing Game
+Day 3 - Password Generator
+Day 4 - File Organizer
