@@ -10,4 +10,4 @@ Projects:
 Day 1 - Display age in years, month, days
 Day 2 - Number Guessing Game
 Day 3 - Password Generator
-Day 4 - File Organizer
+Day 4 - word counter
