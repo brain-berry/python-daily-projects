@@ -12,3 +12,4 @@ Day 2 - Number Guessing Game
 Day 3 - Password Generator
 Day 4 - word counter
 Day 5 - random name picker
+Day 6 - rock paper scissors
