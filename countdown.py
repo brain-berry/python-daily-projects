@@ -17,3 +17,7 @@ while seconds:
 for i in range(3):
     print("Time's up!")
     time.sleep(0.5)
+    
+prompt = "Hey, what's up? "
+user_input = input(prompt)
+print("You said: " + user_input)
