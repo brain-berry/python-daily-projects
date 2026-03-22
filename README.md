@@ -14,3 +14,6 @@ Day 4 - word counter
 Day 5 - random name picker
 Day 6 - rock paper scissors
 Day 7 - countdown timer
+Day 8  - to do list
+Day 9 - refactor to do list to use JSON for task storage
+Day 10 - File organizer
