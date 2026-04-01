@@ -22,3 +22,4 @@ Day 12 - Expense Tracker
 Day 13 - Quiz App
 Day 14 - Simple File search tool
 Day 15 - GUI file finder
+Day 16 - Refactor word counter: add empty input handling, case-insensitive counting, punctuation stripping, unique word count, and avg word length
