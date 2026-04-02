@@ -23,3 +23,4 @@ Day 13 - Quiz App
 Day 14 - Simple File search tool
 Day 15 - GUI file finder
 Day 16 - Refactor word counter: add empty input handling, case-insensitive counting, punctuation stripping, unique word count, and avg word length
+Day 17 - Clean up name picker - add input validation, filter blank entries, show entry list before selection
