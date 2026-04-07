@@ -24,4 +24,5 @@ Day 14 - Simple File search tool
 Day 15 - GUI file finder
 Day 16 - Refactor word counter: add empty input handling, case-insensitive counting, punctuation stripping, unique word count, and avg word length
 Day 17 - Clean up name picker - add input validation, filter blank entries, show entry list before selection
-Day - 18 Lost and found cli app,(mini trace it)
+Day 18 - Lost and found cli app,(mini trace it)
+Day 19 - Improve number guesser - add input validation, attempt limit, range checking, and better user feedback
