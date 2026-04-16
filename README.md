@@ -26,3 +26,4 @@ Day 18 - Lost and found cli app,(mini trace it)
 Day 19 - Improve number guesser - add input validation, attempt limit, range checking, and better user feedback
 Day 21 - Refactor age calculator - use datetime module, add birth date input, improve accuracy, add input validation
 Day 22 - Items have status → available / claimed Users can claim items Prevent multiple claims Show who claimed an item
+Day 23 - A simple Python program that simulates rolling two dice.
