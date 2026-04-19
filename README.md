@@ -28,3 +28,5 @@ Day 21 - Refactor age calculator - use datetime module, add birth date input, im
 Day 22 - Items have status → available / claimed Users can claim items Prevent multiple claims Show who claimed an item
 Day 23 - A simple Python program that simulates rolling two dice.
 Day 24 - upgraded Day 23 with ASCII dice visuals, choice of 1 or 2 dice, rolling animation, cleaner structure
+Day 25 - A simple Python web scraper that fetches and saves the latest news headlines.
+
