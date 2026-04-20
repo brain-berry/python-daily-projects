@@ -29,4 +29,4 @@ Day 22 - Items have status → available / claimed Users can claim items Prevent
 Day 23 - A simple Python program that simulates rolling two dice.
 Day 24 - upgraded Day 23 with ASCII dice visuals, choice of 1 or 2 dice, rolling animation, cleaner structure
 Day 25 - A simple Python web scraper that fetches and saves the latest news headlines.
-
+Day 26 - A powerful command-line news dashboard built with Python that scrapes and manages live news headlines. Features include: Scrape live headlines(BBC), Category selection (General, Tech, Business), Search functionality, Export to TXT and CSV, Timestamped data, Interactive CLI menu
